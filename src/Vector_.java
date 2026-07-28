@@ -17,7 +17,7 @@ public class Vector_ {
             System.out.println(list);
 
 
-            System.out.println(list.set(4,"Ali"));
+            System.out.println(list.set(4,"Ali "));
 
             System.out.println(list.get(4));
 

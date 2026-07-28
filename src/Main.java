@@ -9,7 +9,7 @@ public class Main {
         al.add("Ali");
         al.add(123);
         al.add(null);
-        al.add(345.685f);
+        al.add(345.65f);
 
         System.out.println(al);
 
