@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package List;
+
 import java.util.LinkedList;
 
 public class Linked_List {
