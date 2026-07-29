@@ -3,7 +3,7 @@ package MyComparator;
 import java.util.Comparator;
 import java.util.TreeSet;
 
-public class impQuestion {
+public class impQuestion1 {
     public static void main(String[] args) {
 
         TreeSet ts = new TreeSet(new MyComparator3());
